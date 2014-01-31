@@ -1,0 +1,6 @@
+name        : circle
+author      : icydee
+author_id   : 1
+title       : Go in Circles
+description : This is a simple bit of code that just sends ships in a tight, fast circle.
+
