@@ -1,5 +1,5 @@
 foreach my $ship (@{$data->my_ships}) {
-    $ship->thrust_forward(60);
-    $ship->rotation(-0.2);
+    $ship->thrust_forward(5);
+    $ship->rotation(-0.6);
 }
 
