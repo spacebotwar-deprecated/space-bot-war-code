@@ -1,6 +1,6 @@
 name        : anti-circle
 author      : icydee
 author_id   : 1
-title       : Go in Circles, slowly
+title       : Go in Circles, very tight circles...
 description : This is a simple bit of code that just sends ships in a tight, fast circle.
 
