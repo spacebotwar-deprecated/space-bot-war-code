@@ -1,4 +1,4 @@
-name        : circle
+name        : anti-circle
 author      : icydee
 author_id   : 1
 title       : Go in Circles
